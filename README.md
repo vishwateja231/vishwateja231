@@ -61,11 +61,13 @@
 
 ---
 
+### ✍️ Dev Quote  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 
 ---
 
-### 🐍 Contribution Snake  
+### 🐍 Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
@@ -73,3 +75,10 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=vishwateja231&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="footer line"/>
+  <b>🌟 Thanks for stopping by — let's build something amazing! 🌟</b>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/capsule_render.svg" width="100%" />
+</p>
+
