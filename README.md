@@ -6,14 +6,13 @@
 ---
 
 # 💫 About Me  
-🤖 AI & ML Enthusiast <br>  
-☁️ Cloud & DevOps Explorer <br>  
-💻 Full-Stack Developer <br>  
-🔭 Working on **GenAI-powered Web Apps** <br>  
-👯 Looking to collaborate on **Generative AI & Cloud-native projects** <br>  
- 
 
----
+- 🤖 **AI & ML Enthusiast**  
+- ☁️ **Cloud & DevOps Explorer**  
+- 💻 **Full-Stack Developer**  
+- 🔭 Working on *GenAI-powered Web Apps*  
+- 👯 Open to collab on *Generative AI & Cloud-native projects*  
+
 
 ## 💻 Languages and Tools  
 
@@ -80,5 +79,14 @@
   <b>🌟 Thanks for stopping by — let's build something amazing! 🌟</b>
   <br><br>
   <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/capsule_render.svg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2AF7F7&center=true&vCenter=true&width=700&lines=✨+Thanks+for+visiting+my+profile!;🚀+Let's+connect+and+collaborate;💡+Always+learning%2C+always+building" alt="Typing Animation Outro" />
+</p>
+<p align="center">
+  <img src="https://github-readme-divider.vercel.app/api?gradient=blue,cyan,teal&text=Thanks+for+visiting!+⭐+Let's+Connect&height=60" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="matrix animation" />
 </p>
 
