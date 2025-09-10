@@ -18,7 +18,7 @@
 ## 💻 Languages and Tools  
 
 ### 🤖 AI / ML  
-[![AI/ML](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,opencv)](https://skillicons.dev)  
+[![AI/ML](https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,opencv,sklearn,pandas)](https://skillicons.dev)  
 
 ### 🌐 Frontend  
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,next)](https://skillicons.dev)  
@@ -33,7 +33,7 @@
 [![DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,linux)](https://skillicons.dev)  
 
 ### 🎨 Design & Tools  
-[![Design](https://skillicons.dev/icons?i=figma,postman,vscode,ubuntu,windows)](https://skillicons.dev)  
+[![Design](https://skillicons.dev/icons?i=postman,vscode,ubuntu,windows)](https://skillicons.dev)  
 
 ---
 
