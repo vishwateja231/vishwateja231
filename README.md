@@ -56,7 +56,7 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/-vishwateja">
+  <a href="https://linkedin.com/in/vishwateja2345">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
   </a>
 </p>
