@@ -37,9 +37,12 @@
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-vishwateja)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/_vishwateja)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/vishwateja231)  
+
+<p align="center">
+  <a href="https://linkedin.com/in/-vishwateja"><img src="https://img.shields.io/badge/-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/_vishwateja"><img src="https://img.shields.io/badge/-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://github.com/vishwateja231"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
