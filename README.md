@@ -67,6 +67,35 @@
 </p>
 
 ---
+## 🐍 Contributions  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <b>✨ Thanks for visiting! Let's connect and build cool stuff 🚀</b>
+</p>
+## 🐍 Contributions  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark mode" />
+</p>
+## 🐍 Contributions  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+## 🐍 Contributions  
+
+<p align="center">
+  <img src="https://github-readme-divider.vercel.app/api?gradient=blue,cyan,teal&height=4" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 
 [![](https://visitcount.itsvg.in/api?id=vishwateja231&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="center">
