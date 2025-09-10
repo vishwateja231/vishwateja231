@@ -61,8 +61,7 @@
 
 ---
 
-### ✍️ Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
 
 ---
 
@@ -74,7 +73,3 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=vishwateja231&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2AF7F7,100:008080&height=100&section=footer"/>
-</p>
