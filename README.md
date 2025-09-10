@@ -18,7 +18,7 @@
 ## 💻 Languages and Tools  
 
 ### 🤖 AI / ML  
-[![AI/ML](https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,opencv,sklearn,pandas)](https://skillicons.dev)  
+[![AI/ML](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,pandas,numpy)](https://skillicons.dev)  
 
 ### 🌐 Frontend  
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,next)](https://skillicons.dev)  
