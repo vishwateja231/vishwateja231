@@ -9,7 +9,7 @@
 🤖 AI & ML Enthusiast <br>  
 ☁️ Cloud & DevOps Explorer <br>  
 💻 Full-Stack Developer <br>  
-🔭 Working on **AI-powered & Predictive Web Apps** <br>  
+🔭 Working on **GenAI-powered Web Apps** <br>  
 👯 Looking to collaborate on **Generative AI & Cloud-native projects** <br>  
  
 
