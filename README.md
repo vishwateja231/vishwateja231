@@ -11,7 +11,9 @@
 - ☁️ **Cloud & DevOps Explorer**  
 - 💻 **Full-Stack Developer**  
 - 🔭 Working on *GenAI-powered Web Apps*  
-- 👯 Open to collab on *Generative AI & Cloud-native projects*  
+- 👯 Open to collab on *Generative AI & Cloud-native projects*
+
+  🌐 Checkout my portfolio: https://portfolio-vishwateja2345.vercel.app/
 
 
 ## 💻 Languages and Tools  
