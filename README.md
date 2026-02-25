@@ -1,8 +1,10 @@
-<!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2AF7F7&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Vishwa+Teja;🤖+AI+%26+ML+Engineer;☁️+Cloud+%26+DevOps+Explorer;💻+Full-Stack+Developer" alt="Typing SVG" />
+Hi 👋, I'm Vishwa Teja
 </h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer;Full+Stack+Developer;Cloud+Engineer;Open+Source+Contributor;Always+Learning+New+Things" />
+</p>
 ---
 
 # 💫 About Me  
